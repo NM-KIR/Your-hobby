@@ -31,4 +31,5 @@ Goal - I want contributors to help me list some favorite PC game.
 - Fortnite
 - Only up!
 - Call of duty
+- valo
 - Sushida

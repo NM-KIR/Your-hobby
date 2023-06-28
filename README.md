@@ -32,3 +32,4 @@ Goal - I want contributors to help me list some favorite PC game.
 - Only up!
 - Call of duty
 - valo
+- Sushida
